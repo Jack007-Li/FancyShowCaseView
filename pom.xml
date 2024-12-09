@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.jackchen</groupId>
-  <artifactId>logic</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <artifactId>fancyshowcaseview</artifactId>
+  <version>1.0.1</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -23,4 +23,11 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+    <dependency>
+      <groupId>com.github.Jack007-Li</groupId>
+      <artifactId>logic</artifactId>
+      <version>main-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
 </project>
