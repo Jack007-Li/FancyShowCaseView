@@ -27,7 +27,15 @@
     <dependency>
       <groupId>com.github.Jack007-Li</groupId>
       <artifactId>logic</artifactId>
-      <version>1.0.7</version>
+      <version>1.0.8</version>
+    </dependency>
+  </dependencies>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.github.megatronking.stringfog</groupId>
+      <artifactId>xor</artifactId>
+      <version>5.0.0</version>
     </dependency>
   </dependencies>
 </project>
