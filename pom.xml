@@ -29,9 +29,7 @@
       <artifactId>baselib</artifactId>
       <version>main-SNAPSHOT</version>
     </dependency>
-  </dependencies>
 
-  <dependencies>
     <dependency>
       <groupId>com.github.megatronking.stringfog</groupId>
       <artifactId>xor</artifactId>
