@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.github.Jack007-Li</groupId>
       <artifactId>baselib</artifactId>
-      <version>main-SNAPSHOT</version>
+      <version>1.0.8</version>
     </dependency>
 
     <dependency>
