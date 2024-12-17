@@ -1,3 +1,3 @@
 # FancyShowCaseView
 
-fork from (https://github.com/faruktoptas/FancyShowCaseView)
+fork from [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)
