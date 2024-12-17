@@ -1,3 +1,3 @@
-# lib-closed-source-arr
+# FancyShowCaseView
 
-fork from [](https://github.com/faruktoptas/FancyShowCaseView)
+fork from ![](https://github.com/faruktoptas/FancyShowCaseView)
